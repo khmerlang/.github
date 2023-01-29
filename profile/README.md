@@ -9,6 +9,7 @@ We also do work for 💸.
  - [Khmerlang-Keyboard](https://github.com/khmerlang/Khmerlang-Keyboard) 📈
  - [khmer-number](https://github.com/khmerlang/khmer-number) 📈
  - [KhmerWordSegmentation](https://github.com/RathanakSreang/KhmerWordSegmentation) 🧠
+ - [Khmer Analysis Plugin for Elasticsearch](https://github.com/khmerlang/elasticsearch-analysis-khmerlang) 🧠
 
 
 ### Around the web 🧭
